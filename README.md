@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="[https://media1.tenor.com/m/2JadSPd49K0AAAAd/cyberpunk-hacker.gif]" width="600px" />
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/Estudando_Novas_Tecnologias-Always-yellow?style=for-the-badge" alt="Estudando"/>
   <img src="https://img.shields.io/badge/Disponível_para_Projetos-Yes-brightgreen?style=for-the-badge" alt="Disponível para Projetos"/>
   <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-Ready-purple?style=for-the-badge" alt="HTML CSS Badge"/>
@@ -30,9 +35,4 @@
 
 ---
 
-[🔗 LinkedIn](https://linkedin.com/in/jfcreativelab) • [🚀 Meu Portfólio](https://seusite.com)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" />
-</p>
-
+[🔗 LinkedIn](https://linkedin.com/in/jfcreativelab) • [
