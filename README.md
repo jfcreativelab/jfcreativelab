@@ -20,3 +20,9 @@
 ---
 
 [🔗 LinkedIn](https://linkedin.com/in/jfcreativelab) • [🚀 Meu Portfólio](https://seusite.com)
+
+![Status](https://img.shields.io/badge/Status-Completo-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+
