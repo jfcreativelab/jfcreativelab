@@ -23,10 +23,10 @@
 🚀 Sempre em busca de novos desafios e inovações no mundo tech.
 
 ## 💼 Tecnologias que domino:
-- HTML, CSS, JavaScript, React.js
-- Node.js, Python
+- HTML, CSS, JavaScript,
+- Node.js, React.js, Python
 - MySQL, MongoDB
-- Design UX/UI (Photoshop, Figma)
+- Design (Adobe Photoshop, Adobe Illustrator, Figma, Canva, Adobe After Effects, CapCut)
 
 ## 📈 Meus objetivos:
 - Desenvolver projetos cada vez mais escaláveis
