@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://img.shields.io/badge/Contributing-Open%20Source-%237159c1?style=for-the-badge&logo=github)"/>
+  <img src="[https://img.shields.io/badge/Contributing-Open%20Source-%237159c1?style=for-the-badge&logo=github) alt="Open""/>
   <img src="https://img.shields.io/badge/Estudando_Novas_Tecnologias-Always-yellow?style=for-the-badge" alt="Estudando"/>
   <img src="https://img.shields.io/badge/Disponível_para_Projetos-Yes-brightgreen?style=for-the-badge" alt="Disponível para Projetos"/>
   <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-Ready-purple?style=for-the-badge" alt="HTML CSS Badge"/>
