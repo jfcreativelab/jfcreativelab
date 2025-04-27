@@ -1,6 +1,7 @@
 p align="center">
   <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="500px" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Estudando_Novas_Tecnologias-Always-yellow?style=for-the-badge" alt="Estudando"/>
   <img src="https://img.shields.io/badge/Disponível_para_Projetos-Yes-brightgreen?style=for-the-badge" alt="Disponível para Projetos"/>
