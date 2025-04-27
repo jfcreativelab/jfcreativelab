@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-Ready-purple?style=for-the-badge" alt="HTML CSS Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-Developer-purple?style=for-the-badge" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/Python-Coder-purple?style=for-the-badge" alt="Python Badge"/>
+</p>
+
 # 👋 Olá! Eu sou o João - JF Creative Lab
 
 🔵 Desenvolvedor Full Stack focado em criar aplicações modernas, performáticas e inteligentes.  
@@ -20,9 +26,3 @@
 ---
 
 [🔗 LinkedIn](https://linkedin.com/in/jfcreativelab) • [🚀 Meu Portfólio](https://seusite.com)
-
-![Status](https://img.shields.io/badge/Status-Completo-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
-
